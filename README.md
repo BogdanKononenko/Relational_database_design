@@ -1,5 +1,5 @@
 # Relational database design
-Course-paper [download](https://github.com/BogdanKononenko/Course-paper/files/7420735/Relational.database.design.pdf)
+[Download](https://github.com/BogdanKononenko/Course-paper/files/7420735/Relational.database.design.pdf) course-paper
 
   Целью работы является проектирование и создание реляционной базы
 данных. Тематика - музыкальная платформа.
